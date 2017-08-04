@@ -1,6 +1,4 @@
 {
-  "data" : {
-    "version" : 1,
-    "url" : "www.baidu.com"
-  }
+   "code" : 1,
+   "url" : "www.baidu.com"
 }
